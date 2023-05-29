@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.227.193.77:8181/mylandmarktech/repository/gloweb-releases/</url>
+	      <url>http://3.88.2.225:8181/mymainsite/repository/mtn-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.227.193.77:8181/mylandmarktech/repository/gloweb-snapshots/</url>
+	      <url>http://3.88.2.225:8181/mymainsite/repository/mtn-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
