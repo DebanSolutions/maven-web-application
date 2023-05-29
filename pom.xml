@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>hoodApp</finalName>
+		<finalName>mtnapp</finalName>
 		
 		<plugins>
 			<plugin>
